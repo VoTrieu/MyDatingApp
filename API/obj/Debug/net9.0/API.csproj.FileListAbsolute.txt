@@ -146,3 +146,11 @@
 /Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
