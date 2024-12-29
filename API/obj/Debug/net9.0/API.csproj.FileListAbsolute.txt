@@ -154,3 +154,4 @@
 /Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
 /Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/trieuvo/Documents/Angular/MyDatingApp/API/obj/Debug/net9.0/API.sourcelink.json
