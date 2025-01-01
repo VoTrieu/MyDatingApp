@@ -5,6 +5,9 @@ import { ListsComponent } from './lists/lists.component';
 import { MessagesComponent } from './messages/messages.component';
 import { MembersListComponent } from './members/members-list/members-list.component';
 import { MembersDetailComponent } from './members/members-detail/members-detail.component';
+import { NotFoundComponent } from './errors/not-found/not-found.component';
+import { ServerErrorComponent } from './errors/server-error/server-error.component';
+import { TestErrorComponent } from './errors/test-error/test-error.component';
 
 export const routes: Routes = [
     {path: '', component: HomeComponent},
@@ -19,5 +22,8 @@ export const routes: Routes = [
             {path: 'messages', component: MessagesComponent},
         ]
     },
+    {path: 'not-found', component: NotFoundComponent},
+    {path: 'server-error', component: ServerErrorComponent},
+    {path: 'test-error', component: TestErrorComponent},
     {path: '**', component: HomeComponent, pathMatch: 'full'},
 ];
