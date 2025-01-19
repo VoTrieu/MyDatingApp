@@ -155,3 +155,5 @@
 /Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
 /Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/trieuvo/Documents/Angular/MyDatingApp/API/obj/Debug/net9.0/API.sourcelink.json
+/Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/Data/UserSeedData.json
+/Users/trieuvo/Documents/Angular/MyDatingApp/API/bin/Debug/net9.0/AutoMapper.dll
