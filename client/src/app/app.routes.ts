@@ -8,6 +8,8 @@ import { MembersDetailComponent } from './members/members-detail/members-detail.
 import { NotFoundComponent } from './errors/not-found/not-found.component';
 import { ServerErrorComponent } from './errors/server-error/server-error.component';
 import { TestErrorComponent } from './errors/test-error/test-error.component';
+import { MemberEditComponent } from './members/member-edit/member-edit.component';
+import { preventUnsaveChangesGuard } from './_guards/prevent-unsave-changes.guard';
 
 export const routes: Routes = [
     {path: '', component: HomeComponent},
@@ -18,6 +20,9 @@ export const routes: Routes = [
         children: [
             {path: 'members', component: MembersListComponent},
             {path: 'members/:username', component: MembersDetailComponent},
+            {path: 'member/edit', component: MemberEditComponent,
+                canDeactivate:[preventUnsaveChangesGuard]
+            },
             {path: 'lists', component: ListsComponent},
             {path: 'messages', component: MessagesComponent},
         ]

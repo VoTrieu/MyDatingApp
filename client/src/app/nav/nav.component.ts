@@ -7,7 +7,7 @@ import { Router, RouterLink, RouterLinkActive } from '@angular/router';
 
 @Component({
   selector: 'app-nav',
-  imports: [FormsModule, BsDropdownModule, RouterLink, RouterLinkActive, TitleCasePipe],
+  imports: [FormsModule, BsDropdownModule, RouterLink, TitleCasePipe],
   templateUrl: './nav.component.html',
   styleUrl: './nav.component.css'
 })
